@@ -1,0 +1,21 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    color: darkcyan;
+}
+
+.box {
+    background-color: rgb(84, 0, 252);
+    width:80%;
+    height:500px;
+    margin-left:10%;
+    justify-content: center;
+    position:absolute;
+}
+.ball {
+    position: absolute;
+    background-color: cyan;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
